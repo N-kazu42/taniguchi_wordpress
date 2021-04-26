@@ -1,0 +1,2 @@
+[Tue Apr 20 13:40:21.297538 2021] [proxy_fcgi:error] [pid 54240:tid 1328] (70007)The timeout specified has expired: [client 127.0.0.1:52513] AH01075: Error dispatching request to :10005: (polling), referer: http://my-site.local/wp-admin/update-core.php
+[Tue Apr 20 13:40:21.297538 2021] [proxy_fcgi:error] [pid 54240:tid 1332] (70007)The timeout specified has expired: [client 127.0.0.1:52602] AH01075: Error dispatching request to :10005: (polling), referer: http://my-site.local/wp-admin/upgrade.php?step=upgrade_db
